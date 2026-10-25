@@ -1,0 +1,6 @@
+{
+  "name": "VoyageDesk - Tour & Travels CRM",
+  "description": "Comprehensive tour and travels CRM for managing client bookings, automated itinerary planning, and multi-currency client invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
